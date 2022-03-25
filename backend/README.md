@@ -1,4 +1,4 @@
-Mise en place du projet : 
+# Mise en place du projet : 
 executer mkdir images
 executer npm install
 executer nodemon server
